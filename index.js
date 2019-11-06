@@ -1,8 +1,8 @@
-"use strict";
+/*!
+ * raymon client
+ * Copyright(c) 2019 Mohammad Shams
+ * MIT Licensed
+ */
 
-const config = require('./src/config/config');
-const server = require('./src/server/server_controller');
-
-server.init(config.server);
-server.addRequestHandler("ping", require('./request_handlers/ping_pong'));
-server.start();
+'use strict';
+module.exports = require('./src/main/raymon-client');

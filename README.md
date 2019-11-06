@@ -1,5 +1,5 @@
-## Raymon
-A NodeJS-Based real-time server
+## Raymon Client NodeJS
+NodeJS client for Raymon server
 
-run
-`$ node index.js`
+###install 
+`$ npm i raymonClient-client`

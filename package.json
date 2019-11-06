@@ -1,7 +1,7 @@
 {
-  "name": "@shamsdev/raymon",
+  "name": "raymon-client",
   "version": "1.0.0",
-  "description": "real-time server",
+  "description": "NodeJS client for Raymon server",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
@@ -9,20 +9,21 @@
   "author": "Mohammad Shams - ShamsDev.com",
   "license": "MIT",
   "dependencies": {
-    "socket.io": "^2.2.0"
+    "socket.io-client": "^2.3.0"
   },
   "devDependencies": {},
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/shamsdev/raymon.git"
+    "url": "git+https://github.com/shamsdev/raymon-client-nodejs.git"
   },
   "keywords": [
     "realtime",
     "server",
+    "client",
     "nodejs"
   ],
   "bugs": {
-    "url": "https://github.com/shamsdev/raymon/issues"
+    "url": "https://github.com/shamsdev/raymon-client-nodejs/issues"
   },
-  "homepage": "https://github.com/shamsdev/raymon#readme"
+  "homepage": "https://github.com/shamsdev/raymon-client-nodejs#readme"
 }
