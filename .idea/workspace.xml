@@ -2,17 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="be55cc15-6453-4c76-8620-7c15bd44b4ec" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/index.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/request_handlers/ping_pong.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/config/config.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/data/statics.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/server/server_controller.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/server/user.js" beforeDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -89,7 +80,7 @@
       <workItem from="1572520389205" duration="1275000" />
       <workItem from="1572797632340" duration="34000" />
       <workItem from="1573038418809" duration="10640000" />
-      <workItem from="1573067633663" duration="1088000" />
+      <workItem from="1573067633663" duration="1318000" />
     </task>
     <servers />
   </component>
